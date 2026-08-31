@@ -4,4 +4,4 @@ Sesi GIT 1
 Belajar git workflow lokal.
 BELAJAR LAGI
 # ## Senarai Arahan
-# - git init / git add / git commit
+# - git init / git add / git commit## tarikh
