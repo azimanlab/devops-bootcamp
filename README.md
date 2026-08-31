@@ -6,3 +6,4 @@ BELAJAR LAGI
 # ## Senarai Arahan
 # - git init / git add / git commit## tarikh
 ## diubah dari laptop
+## diubah dari salinan kedua
